@@ -1,7 +1,8 @@
 package com.financialapp.events;
 
-import com.financialapp.model.FinancialGoal;
 import org.springframework.context.ApplicationEvent;
+
+import com.financialapp.entity.FinancialGoal;
 
 public class GoalAchievedEvent extends ApplicationEvent {
 

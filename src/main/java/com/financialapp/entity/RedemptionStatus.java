@@ -1,4 +1,4 @@
-package com.financialapp.model;
+package com.financialapp.entity;
 
 public enum RedemptionStatus {
     PENDING,

@@ -7,8 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
-import com.financialapp.model.Redemption;
-import com.financialapp.model.RedemptionStatus;
+import com.financialapp.entity.Redemption;
+import com.financialapp.entity.RedemptionStatus;
 import com.financialapp.repository.RedemptionRepository;
 import com.financialapp.service.RedemptionService;
 

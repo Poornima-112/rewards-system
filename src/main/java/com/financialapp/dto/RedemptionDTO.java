@@ -3,7 +3,7 @@ package com.financialapp.dto;
 import lombok.*;
 import java.time.LocalDateTime;
 
-import com.financialapp.model.RedemptionStatus;
+import com.financialapp.entity.RedemptionStatus;
 
 @Data
 @NoArgsConstructor

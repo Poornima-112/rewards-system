@@ -1,10 +1,10 @@
 package com.financialapp.service.impl;
 
 import com.financialapp.dto.RedemptionDTO;
-import com.financialapp.model.RewardCatalog;
-import com.financialapp.model.Redemption;
-import com.financialapp.model.RedemptionStatus;
-import com.financialapp.model.User;
+import com.financialapp.entity.Redemption;
+import com.financialapp.entity.RedemptionStatus;
+import com.financialapp.entity.RewardCatalog;
+import com.financialapp.entity.User;
 import com.financialapp.repository.RedemptionRepository;
 import com.financialapp.repository.RewardCatalogRepository;
 import com.financialapp.repository.UserRepository;

@@ -1,7 +1,7 @@
 package com.financialapp.service.impl;
 
 import com.financialapp.dto.RewardDTO;
-import com.financialapp.model.*;
+import com.financialapp.entity.*;
 import com.financialapp.repository.*;
 import com.financialapp.service.RewardService;
 

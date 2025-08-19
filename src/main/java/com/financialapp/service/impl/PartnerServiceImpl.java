@@ -1,7 +1,7 @@
 package com.financialapp.service.impl;
 
 import com.financialapp.dto.PartnerDTO;
-import com.financialapp.model.Partner;
+import com.financialapp.entity.Partner;
 import com.financialapp.repository.PartnerRepository;
 import com.financialapp.service.PartnerService;
 import org.modelmapper.ModelMapper;

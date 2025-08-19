@@ -1,8 +1,8 @@
 package com.financialapp.service.impl;
 
 import com.financialapp.dto.RewardCatalogDTO;
-import com.financialapp.model.Partner;
-import com.financialapp.model.RewardCatalog;
+import com.financialapp.entity.Partner;
+import com.financialapp.entity.RewardCatalog;
 import com.financialapp.repository.PartnerRepository;
 import com.financialapp.repository.RewardCatalogRepository;
 import com.financialapp.service.RewardCatalogService;

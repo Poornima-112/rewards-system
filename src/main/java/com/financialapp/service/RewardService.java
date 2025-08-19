@@ -1,9 +1,9 @@
 package com.financialapp.service;
 
 import com.financialapp.dto.RewardDTO;
-import com.financialapp.model.FinancialActivity;
-import com.financialapp.model.FinancialGoal;
-import com.financialapp.model.Reward;
+import com.financialapp.entity.FinancialActivity;
+import com.financialapp.entity.FinancialGoal;
+import com.financialapp.entity.Reward;
 
 import java.util.List;
 

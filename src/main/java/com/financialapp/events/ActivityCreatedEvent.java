@@ -1,7 +1,8 @@
 package com.financialapp.events;
 
-import com.financialapp.model.FinancialActivity;
 import org.springframework.context.ApplicationEvent;
+
+import com.financialapp.entity.FinancialActivity;
 
 public class ActivityCreatedEvent extends ApplicationEvent {
     private final FinancialActivity activity;

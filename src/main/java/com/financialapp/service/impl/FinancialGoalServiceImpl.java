@@ -2,9 +2,9 @@ package com.financialapp.service.impl;
 
 import com.financialapp.dto.FinancialGoalDTO;
 import com.financialapp.dto.RewardDTO;
+import com.financialapp.entity.FinancialGoal;
+import com.financialapp.entity.User;
 import com.financialapp.events.GoalAchievedEvent;
-import com.financialapp.model.FinancialGoal;
-import com.financialapp.model.User;
 import com.financialapp.repository.FinancialGoalRepository;
 import com.financialapp.repository.UserRepository;
 import com.financialapp.service.FinancialGoalService;
